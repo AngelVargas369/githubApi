@@ -1,0 +1,19 @@
+.followercard{
+    width: 50%;
+    height: 400px;
+    margin: 10px auto;
+    border: 2px solid black;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.followercard>img{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    border-radius: 20px;
+}

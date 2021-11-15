@@ -1,0 +1,18 @@
+.header{
+    
+    align-content: flex-end;
+    background-color: rgb(66, 86, 199);
+
+}
+h3{
+    color: white;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+body{
+    width: auto;
+    background-color:teal
+   
+}
